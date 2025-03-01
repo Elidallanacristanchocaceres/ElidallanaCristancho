@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Elidallanacristanchocaceres/Elidallanacristanchocaceres/blob/main/ruta/de/tu/imagen.png" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
