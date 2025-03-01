@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-[GitHub Contribution Graph](https://github.com/Elidallanacristanchocaceres/Elidallanacristanchocaceres/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://github.com/Elidallanacristanchocaceres/Elidallanacristanchocaceres/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 ###
