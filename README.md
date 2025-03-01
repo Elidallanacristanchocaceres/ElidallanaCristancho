@@ -9,8 +9,8 @@
 
 ###
 
-<div>
-    <img align="right" height="150"  src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif" />
+<div align="center">
+    <img  height="150"  src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif" /> <br> <br> <br> <br>
 </div>
 
 ###
@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
         height="35" alt="linkedin logo" />
 </a>
-
+  <a href="cristanchodayana062017@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
