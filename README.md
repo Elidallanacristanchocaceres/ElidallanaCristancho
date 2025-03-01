@@ -10,7 +10,7 @@
 ###
 
 <div>
-    <img style="float: right; height: 150px;" src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif" />
+    <img align="right" height="150"  src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif" />
 </div>
 
 ###
