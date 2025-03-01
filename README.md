@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Elidallanacristanchocaceres&show_icons=true&theme=dark&count_private=true" alt="Snake animation" />
+<img src="https://github.com/Elidallanacristanchocaceres/Elidallanacristanchocaceres/blob/main/ruta/de/tu/imagen.png alt="Snake animation" />
 
 ###
