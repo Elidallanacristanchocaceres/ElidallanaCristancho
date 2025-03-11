@@ -8,7 +8,7 @@
 - Mi objetivo es contribuir al éxito de los proyectos en los que participe y mejorar constantemente mis habilidades🚧.
 - Tengo una gran capacidad de trabajo en equipo, adaptabilidad y comunicación efectiva🤝.
 - Me considero una persona proactiva, responsable y orientada a resultados.
-- Tengo habilidades para gestionar el tiempo, priorizar tareas y enfrentar desafíos.
+- Tengo habilidades para gestionar el tiempo, priorizar tareas y enfrentar desafíos ⏰.
 
 ###
 
