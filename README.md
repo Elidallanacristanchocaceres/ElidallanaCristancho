@@ -1,14 +1,18 @@
-### <h2 align="left"> ✨Hola, soy Elidallana Cristancho.
-  
-- Soy estudiante de desarrollo full stack Junior en Campuslands Uniminuto, Tengo 22 años.
-- Estudio desarrollo web y estoy a punto de finalizar mi carrera 👩‍🎓.
-- Me especializo en tecnologías como Java | Spring boot | PostgresSQL | JavaScript | Html , Css y Scrum👨‍💻.
-- Me apasiona aprender nuevas herramientas y enfoques para crear soluciones innovadoras💡.
-- Busco oportunidades donde pueda aplicar mis conocimientos, seguir creciendo y enfrentar nuevos retos📈.
-- Mi objetivo es contribuir al éxito de los proyectos en los que participe y mejorar constantemente mis habilidades🚧.
-- Tengo una gran capacidad de trabajo en equipo, adaptabilidad y comunicación efectiva🤝.
-- Me considero una persona proactiva, responsable y orientada a resultados.
-- Tengo habilidades para gestionar el tiempo, priorizar tareas y enfrentar desafíos ⏰.
+# ✨ Hola, soy Elidallana Cristancho.
+
+- Desarrolladora Full Stack Junior en formación, próxima a graduarme en Desarrollo Web 👩🎓.
+
+- Especializada en Java, Spring Boot, PostgreSQL, JavaScript, HTML, CSS y metodologías ágiles como Scrum 👨💻.
+
+- Apasionada por aprender y crear soluciones innovadoras 💡.
+
+- Busco oportunidades para aplicar mis conocimientos, crecer profesionalmente y enfrentar nuevos retos 📈.
+
+- Habilidades clave: Trabajo en equipo, adaptabilidad, comunicación efectiva y orientación a resultados 🤝.
+
+- Proactiva, organizada y con capacidad para gestionar tiempo y prioridades ⏰.
+
+- Objetivo: Contribuir al éxito de proyectos mientras sigo mejorando mis habilidades 🚧.
 
 ###
 
