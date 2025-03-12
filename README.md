@@ -2,7 +2,7 @@
 
 - Desarrolladora Full Stack Junior en formación, próxima a graduarme en Desarrollo Web 👩🎓.
 
-- Especializada en Java, Spring Boot, PostgreSQL, JavaScript, HTML, CSS y metodologías ágiles como Scrum 👨💻.
+- Especializada en | Java | Spring boot | PostgresSQL | JavaScript | Html , Css  y metodologías ágiles como Scrum 👨💻.
 
 - Apasionada por aprender y crear soluciones innovadoras 💡.
 
